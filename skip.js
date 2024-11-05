@@ -1,6 +1,6 @@
 let adskip = () => {
     console.log("Working")
-    const daArea = document.querySelector('.da_area');
+    const daArea = document.querySelector('#player > .da_area');
     if (daArea) {
         const displayStyle = window.getComputedStyle(daArea).display;
     
