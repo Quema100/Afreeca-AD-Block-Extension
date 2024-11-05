@@ -1,4 +1,4 @@
-#﻿# Afreeca-AD-Block-Extension
+﻿## Soop-AD-Block-Extension
 
 This extension skips all ads that appear during live streaming.
 
@@ -7,7 +7,7 @@ It prevents interruptions to streaming caused by ads that appear during live bro
 To use the extension, you can either download the folder or clone it using the command. 
 
 ```ps1
-git clone https://github.com/Quema100/Afreeca-AD-Block-Extension.git
+git clone https://github.com/Quema100/Soop-AD-Block-Extension.git
 ```
 
 > [!TIP]   
