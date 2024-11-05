@@ -19,6 +19,4 @@ let adskip = () => {
     }
 }
 window.onload = adskip
-setInterval(()=>{
-    adskip()
-},100)
+setInterval(()=> adskip() , 200)
